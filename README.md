@@ -50,3 +50,8 @@ Aspek OOP :
 
 ![image](https://user-images.githubusercontent.com/114992718/207259866-9846ac34-4bca-444d-9671-c8d6043dc037.png)
 
+11. Overriding
+12. Inheritance
+13. Polymorphism
+14. Interface
+15. Encapsulation
