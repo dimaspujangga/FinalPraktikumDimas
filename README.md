@@ -9,7 +9,8 @@ Dimas Aria Pujangga
 5025211212
 
 Pada Final Project ini, saya membuat game sederhana yang biasa ditemukan di smartphone yaitu flappybird.
-link referensi project : https://github.com/granttitus/FlappyBird
+link referensi project  : https://github.com/granttitus/FlappyBird
+Video demo              : https://youtu.be/u3hQ7uM_fNU
 
 Aspek OOP :
 1. ArrayList :Game.java
